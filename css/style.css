@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 body {
-    background: url(https://drive.google.com/uc?export=view&id=1ddhIQDU5kXzYEPlgydP3I7vevAYT3KJM) no-repeat;
+    background: url(https://drive.google.com/uc?export=view&id=1ddhIQDU5kXzYEPlgydP3I7vevAYT3KJM);
+    background-size: var(--focus-bg--size, var(--focus-bg--size-default));
     background-size: 100%;
 }    
 
